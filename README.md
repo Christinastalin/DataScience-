@@ -1,4 +1,4 @@
-# AI/ML-
+#Christina Stalin
 Aspiring Data Scientist | Machine Learning Enthusiast | Curious Problem Solver
 
 Welcome to my GitHub! I'm passionate about uncovering patterns in data and building intelligent solutions that make a real-world impact. With hands-on experience in core ML algorithms, statistical analysis, and feature engineering, I love transforming raw data into actionable insights.
